@@ -1,0 +1,18 @@
+h1{
+    color: rgb(77, 182, 230);
+    font-size: larger;
+    font-family: 'Segoe UI';
+    justify-self: center;
+}
+p{
+    color:rgb(76, 120, 241);
+    font-size: medium;
+    font-family: Arial;
+    justify-content: center;
+}
+h2{
+    color: rgb(14, 88, 122);
+    font-size: medium;
+    font-family: 'Segoe UI';
+    justify-self: center;   
+}

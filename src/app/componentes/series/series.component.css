@@ -1,0 +1,32 @@
+h1{
+    color: rgb(77, 182, 230);
+    font-size: larger;
+    font-family: 'Segoe UI';
+    justify-self: center;
+}
+p{
+    color:rgb(76, 120, 241);
+    font-size: medium;
+    font-family: Arial;
+    justify-content: center;
+}
+li{
+    color: rgb(28, 190, 90);
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium';
+    font-weight: 300;
+}
+h2{
+    color: rgb(14, 88, 122);
+    font-size: medium;
+    font-family: 'Segoe UI';
+    justify-self: center;   
+}
+button{
+    background-color: rgba(140, 22, 209, 0.801);
+    font-size: large;
+    font-family: 'Segoe UI';
+    color: #ffff;
+    align-content: center;
+    align-items: center;
+}

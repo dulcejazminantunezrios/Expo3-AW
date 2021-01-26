@@ -1,0 +1,25 @@
+#rutas li a{
+    font-family: Arial;
+    font-size: 95px;
+    text-decoration: none;
+    padding: 15px;
+    background-color: #2175bc;
+    color: #fff;
+}
+#rutas {
+    padding: 0;
+    }
+#rutas li {
+    display: inline;
+    }
+#rutas li a:hover {
+    background-color: #2586d7;
+    margin-top: -2;
+    padding-bottom: 12px;
+    }
+p{
+    color: #2175bc;
+    font-size: larger;
+    display: flex;
+    font-family: 'Franklin Gothic';
+}

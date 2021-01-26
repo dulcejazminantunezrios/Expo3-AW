@@ -1,0 +1,11 @@
+h1{
+    font-size: 95px;
+    font-weight: 200;
+    font-family: 'Segoe UI';
+    color: rgba(230, 15, 15, 0.815);
+}
+h3{
+    font-family: 'Lucida Sans';
+    font-size: medium;
+    color: rgba(59, 59, 59, 0.575);
+}
